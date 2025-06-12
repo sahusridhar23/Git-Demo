@@ -1,5 +1,5 @@
 # Git-Demo
 This is my first Git Repository.
 <br>
-Author - Sridhar Sahu
+Author - Sridhar Sahu (silicon university)
 
